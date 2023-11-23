@@ -48,4 +48,8 @@ A book can have multiple loans, but each loan can only belong to one book. (One-
 
 <img width="1370" alt="bookBorrowing" src="https://github.com/cansukeles/Week-11/assets/142833559/7d862099-a66d-4371-9de8-b515213e3e5a">
 
+### Book2Categories Table
+
+<img width="1370" alt="book2categories" src="https://github.com/cansukeles/Week-11/assets/142833559/1f5c0cba-193c-4917-ba19-6dd975eaeea4">
+
 
